@@ -55,3 +55,17 @@ body {
   background-position: center;
   background-repeat: no-repeat;
 }
+
+.шапка {
+  height: 100vh;
+
+  background-image: url("./материалы/картинки/заднийФон.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
