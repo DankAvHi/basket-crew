@@ -81,3 +81,16 @@ body {
   flex-direction: column;
 }
 
+.главный-заголовок {
+  font-size: 10vw;
+}
+
+.главный-подзаголовок {
+  position: absolute;
+  bottom: 0%;
+  right: -10%;
+
+  font-size: 6vw;
+  font-family: Playball;
+  color: red;
+}
